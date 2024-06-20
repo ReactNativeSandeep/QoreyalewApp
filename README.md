@@ -1,10 +1,16 @@
 # QoreyalewApp
 Qoreyalew is a Mobile App that is Build in react-native that is based on Sell and Purchase goods with this App in Ethiopia.
 
+# Release APK file link is below ::==>
+
+** [`https://drive.google.com/file/d/12dtJKEyLMUHRqidEvImVHr8c7cgg-mZw/view?usp=sharing`]
+
+(#https://drive.google.com/file/d/12dtJKEyLMUHRqidEvImVHr8c7cgg-mZw/view?usp=sharing)
+
 # Installation
 To install the APK:
 
-Download the `Qoralyo.apk` APK from the `/`(root) folder.
+Download the `Qoralyo.apk` APK from Provided Link.
 Transfer the APK to your Android device.
 Enable installation from unknown sources in your device settings.
 Open the APK file to install the app.
